@@ -1,7 +1,7 @@
 ## Hi, I'm K Manvitha! 👋
 
 ### About Me
-I'm a pre-final BTech student majoring in Computer Science. Right now, I’m working on improving my skills in Data Science and Artificial Intelligence, looking into how they can be applied in different areas.
+I'm a final BTech student majoring in Computer Science. Right now, I’m working on improving my skills in Data Science and Artificial Intelligence, looking into how they can be applied in different areas.
 ### Education
 - **Bachelor of Technology (BTech) in Computer Science**
   - IIITDM Kancheepuram, 2022 - Present
